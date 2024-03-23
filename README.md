@@ -2,7 +2,7 @@
  -Hi
  -Aasalam o alaikum👋 I am Abeera Khalid. 
 -I am a Wordpress website developer,Translator and also a Teacher but I want to become the expert in computer fields like programming,Artifical Intelligence,computer engineering,software engineering.
-🤲IN'SHA ALLAH by the grace of Almighty ALLAH I will do it all.
+🤲IN'SHA ALLAH by the grace of Almighty ALLAH  I will show it by doing it.
 - I’m graduate student
 - 🔭 I’m currently working to enhance my skills on computer fields ...
 - 🌱 I’m currently learning programming languages like typescript, javascript, pythone and artificial intelligence to enhance my skills and broaden
